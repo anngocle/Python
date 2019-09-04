@@ -7,4 +7,5 @@ print(thislist)
 thislist.clear()
 print("hello")
 print ("lengocanhelpme")
+print(a)
     
