@@ -6,5 +6,5 @@ print (thislist[-1])
 print(thislist)
 thislist.clear()
 print("hello")
-print ("lengocan")
+print ("lengocanhelpme")
     
